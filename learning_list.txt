@@ -1,37 +1,10 @@
-　||151
-の|of|117
-だ|is|104
-た|Ta|65
-は|teeth|63
-に|to|44
-を|of|44
-て|hand|41
-と|and|38
-為る|save|36
-が|but|35
-None|None|35
-…|None|33
-か|mosquito|32
 錬金|Alchemy|24 *
-よ|Yo|21
 術師|magician|19 // 金術師 probably alchemist // *
-ない|do not have|18
-な|Na|17
-さん|Mr. Miss.|16
-居る|be there|15
-で|in|15
-ね|hey|13
-言う|To tell|13
-御|God|12
-も|too|12
-エルリック|Elric|12
+言う|To tell|13 *
 兄|older brother|12 // seems normal brother too // *
-事|case|11
-てる|Teru|11
-です|is|10
+事|case|11 (maybe)
 水|water|10 *
-無い|None|10
-何|what|10
+何|what|10 // yes seems prevalent, but a bit too gramatical
 そう|yes|9
 ず|figure|9
 から|from|9
