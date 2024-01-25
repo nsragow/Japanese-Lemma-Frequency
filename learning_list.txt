@@ -5,69 +5,41 @@
 事|case|11 (maybe)
 水|water|10 *
 何|what|10 // yes seems prevalent, but a bit too gramatical
-そう|yes|9
-ず|figure|9
-から|from|9
-鋼|steel|8
-ぞ|Wow|8
-御前|Gozen|8
-弟|younger brother|8
-ます|Masu|8
-氷結|freezing|7
-君-代名詞|you-pronoun|7
-ば|Ba|7
-否|no|7
-遣る|spend|7
-ぶら|Hanging out|7
-奴隷|slave|7
-行く|go|7
-錬成|Transmutation|7
-分かる|I understand|7
-私-代名詞|i-pronoun|7
-此の|this|6
-其の|its|6
-有る|Yes|6
-エドワード-Edward|Edward|6
-ぜ|Ze|6
-物|thing|6
-アルフォンス-Alfons|Alfons-Alfons|6
-れる|be able to|6
-軍|army|6
-俺|I|6
-任せる|Entrust|5
-ああ|ah|5
-大|Big|5
-総統|President|5
-アル|Al|5
-奴|guy|5
-そんな|That kind of thing|5
-筈|Should be|5
-鎧|armor|5
+から|from|9 // not sure
+鋼|steel|8 // more just 鋼の錬金術師, which means fullmetal alchemist *
+弟|younger brother|8 // yes, and often together 兄弟 as brothers *
+氷結|freezing|7 *
+君-代名詞|you-pronoun|7 *
+遣る|spend|7 // todo
+ぶら|Hanging out|7 // todo
+奴隷|slave|7 // todo
+行く|go|7 // sorta, worth learning *
+錬成|Transmutation|7 seems relevant *
+分かる|I understand|7 *
+物|thing|6 // seems low actual count *
+軍|army|6 *
+任せる|Entrust|5 *
+総統|President|5 *
+奴|guy|5 // todo
+そんな|That kind of thing|5 // todo
+筈|Should be|5 // todo
+鎧|armor|5 *
 こんな|Like this|5
-小さい|small|5
-今|now|5
-アル-al|al-al|5
-見る|look|5
-聞く|listen|5
-とく|virtue|5
-アイザック-Isaac|Isaac|5
-国家|nation|5
-我が|my|5
-成る|Become|5
-おお|oh|5
-達|reach|5
-知る|know|5
-少佐|Major|5
-セントラル-central|central-central|4
-良い|good|4
-其れ|it|4
-少年|boy|4
-使う|use|4
-せる|let|4
-術|technique|4
-陣|camp|4
-わ|circle|4
-彼奴|boyfriend|4
-元|Former|4
-殺す|kill|4
-体|body|4
+小さい|small|5 // seems yes, but not sure if its a consistent word
+今|now|5 // maybe
+見る|look|5 *
+聞く|listen|5 *
+国家|nation|5 *
+我が|my|5 *
+達|reach|5 // todo
+知る|know|5 *
+少佐|Major|5 *
+良い|good|4 // todo:
+其れ|it|4 // todo:
+少年|boy|4 *
+使う|use|4 *
+術|technique|4 // seems to be part of alchemist most of the time *
+陣|camp|4 // probably not
+彼奴|boyfriend|4 // todo
+殺す|kill|4 *
+体|body|4 *

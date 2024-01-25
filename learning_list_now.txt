@@ -1,0 +1,28 @@
+錬金|Alchemy|24
+術師|magician|19
+言う|To tell|13
+兄|older brother|12 // seems normal brother too //
+水|water|10
+鋼|steel|8 // more just 鋼の錬金術師, which means fullmetal alchemist
+弟|younger brother|8 // yes, and often together 兄弟 as brothers
+氷結|freezing|7
+君-代名詞|you-pronoun|7 *
+行く|go|7 // sorta, worth learning *
+錬成|Transmutation|7 seems relevant *
+分かる|I understand|7 *
+物|thing|6 // seems low actual count *
+軍|army|6 *
+任せる|Entrust|5 *
+総統|President|5 *
+鎧|armor|5 *
+見る|look|5 *
+聞く|listen|5 *
+国家|nation|5 *
+我が|my|5 *
+知る|know|5 *
+少佐|Major|5 *
+少年|boy|4 *
+使う|use|4 *
+術|technique|4 // seems to be part of alchemist most of the time *
+殺す|kill|4 *
+体|body|4 *

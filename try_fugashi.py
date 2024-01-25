@@ -6,6 +6,7 @@ text = open("episode1.txt", "r").read()
 lemma_dict = {}
 for word in tagger(text):
     lemma = word.feature.lemma
+
     if lemma in lemma_dict:
         lemma_dict[lemma] = lemma_dict[lemma] + 1
     else:

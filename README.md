@@ -14,3 +14,6 @@ pip install 'fugashi[unidic]'
 python -m unidic download     
 pip install -U deep-translator
 ```
+
+todo: make it so I can reference where each original lemma came from.
+Like each entry should have a list of translated sources to compare
